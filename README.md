@@ -11,3 +11,9 @@ Actualizaciones o mejoras pendientes por realizar:
 4. Agregar un modulo en la pantalla principal que muestre las estadistícas de cuantas partidas se han jugado, cuantas ganadas lleva cada jugador y demás.
 
 5. Agregar un modulo para guardar los records de cada jugador, guardando un nombre y la cantidad de partidos ganados vs los jugados.
+
+### NOTAS:
+Se desplegó en:
+1. Github Pages: https://harudev-81.github.io/Blackjack-JS-Vite/
+
+2. Netlify: (https://blackjack-vanilla-21.netlify.app/)
