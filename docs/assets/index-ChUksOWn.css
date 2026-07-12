@@ -1,0 +1,1 @@
+html,body{color:#fff;background-color:#2f4f32;margin:0}.titulo{text-align:center;color:#fff;background-color:#000}.carta{width:100px;margin-left:-50px;position:relative;left:75px}#computadora-cartas,#jugador-cartas{height:150px}.resultado{min-height:1.5rem;font-size:1.2rem;font-weight:700}button:disabled{opacity:.5;cursor:not-allowed}
